@@ -5,7 +5,7 @@ body {
 }
 
 a {
-  color: black;
+  color: #242424;
   text-decoration: none;
 }
 
@@ -22,4 +22,21 @@ h1 {
 
 p {
   font-size: 1.1em;
+  color: #F9F8FF;
+  background-color: darkbleu;
+}
+body {
+  background-color: blanc;
+  color: #242424;
+}
+p {
+  background-color: #1F2039;
+}
+li {
+  backround-color: darkbleu;
+  color: #F9F8FF;
+}
+h2 {
+  background-color: darkbleu;
+  color: #F9F8FF;
 }
